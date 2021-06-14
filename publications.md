@@ -10,6 +10,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 ## 2021
 
 <img src="../../img/journalArticle.png" height="20px">
+J.J. Guthmiller, J. Han, L. Li, A. W. Freyn, S. T. H. Liu, O. Stovicek, C. T. Stamper, H. L. Dugan, M. E. Tepora, H. A. Utset, D. J. Bitar, N. J. Hamel, S. Changrob, N.-Y. Zheng, M. Huang, F. Krammer, R. Nachbagauer, P. Palese, A. B. Ward, P. C. Wilson, *First exposure to the pandemic H1N1 virus induced broadly neutralizing antibodies targeting hemagglutinin head epitopes*. **Sci. Transl. Med.** 13, eabg4535 (2021).[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=First+exposure+to+the+pandemic+H1N1+virus+induced+broadly+neutralizing+antibodies+targeting+hemagglutinin+head+epitopes&btnG=)
+
+<img src="../../img/journalArticle.png" height="20px">
 "Madariaga, Maria Lucia L; Guthmiller, Jenna J; Schrantz, Stephen; Jansen, Maud O; Christensen, Chancey; Kumar, Madan; Prochaska, Micah; Wool, Geoffrey; Durkin-Celauro, Amy; Oh, Won Hee; others" *Clinical predictors of donor antibody titre and correlation with recipient antibody response in a COVID-19 convalescent plasma clinical trial*  **Journal of internal medicine** (2021) [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=Clinical+predictors+of+donor+antibody+titre+and+correlation+with+recipient+antibody+response+in+a+COVID-19+convalescent+plasma+clinical+trial)
 
 <img src="../../img/journalArticle.png" height="20px">
