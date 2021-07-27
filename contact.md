@@ -3,11 +3,10 @@ layout: page
 title: Contact
 ---
 
-The lab is located on the University of Chicago’s Hyde Park campus, in the Jules F. Knapp research building.
+The lab is located on the Weill Cornell Medicine, in the Belfer Research Building.
 
 **Mailing address**
- 924 E. 57th Street R422
- Chicago, IL 60637
+ 413 E 69th St, New York, NY 10021
 
 **Email**
  [wilsonp {at} uchicago {dot} edu](mailto:wilsonp@uchicago.edu)
@@ -17,9 +16,9 @@ The lab is located on the University of Chicago’s Hyde Park campus, in the Jul
 
 **Location**
 
-924 E 57th St, Chicago, IL, United States
+Weill Cornell Medicine - Belfer Research Building, 413 E 69th St, New York, NY, United States
 
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7504.360050659398!2d-87.59759385034276!3d41.79235392403842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x757f6cf7bc97e9f6!2sUChicago%20BSLC!5e0!3m2!1sen!2sus!4v1619900748420!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.9384441859529!2d-73.95543198702202!3d40.76592026821731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c3d1890e85%3A0x9893f8c86968cc2!2sWeill%20Cornell%20Medicine%20-%20Belfer%20Research%20Building!5e0!3m2!1sen!2sus!4v1627421560056!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
  
 
