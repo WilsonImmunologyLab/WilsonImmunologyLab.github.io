@@ -16,7 +16,7 @@ Postdoc:
     website: https://leili-uchicago.github.io/
     url: https://leili-uchicago.github.io/
     github: https://github.com/LeiLi-Uchicago
- - name: Jenna Guthmiller
+  - name: Jenna Guthmiller
     img: ../../img/people/jenna.jpeg
     desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
     twitter: https://twitter.com/GuthmillerJenna
