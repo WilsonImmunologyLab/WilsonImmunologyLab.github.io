@@ -18,16 +18,16 @@ Staff:
     github: https://github.com/LeiLi-Uchicago
 
 Postdoc:
+ - name: Jenna Guthmiller
+    img: ../../img/people/jenna.jpeg
+    desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
+    twitter: https://twitter.com/GuthmillerJenna
   - name: Siri Changrob
     img: ../../img/people/siri.jpeg
     desc: Siri studies the novel influenza vaccine concept based on mosaic influenza proteins to protect against infection from most seasonal and pandemic influenza strains.
   - name: Yanbin Fu
     img: ../../img/people/yanbin.jpeg
     desc: Yanbin is working on design and development of a universal influenza vaccine that could induce broadly neutralizing antibodies directed to the HA stem portion of H3, the more lethal subtype among influenza A subtypes.
-  - name: Jenna Guthmiller
-    img: ../../img/people/jenna.jpeg
-    desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
-    twitter: https://twitter.com/GuthmillerJenna
   - name: Jiayi Sun
     img: ../../img/people/jiayi.jpeg
     desc: Jiayi is pairing an antigen baiting approach with single-cell RNA-sequencing to dissect antigen-specific B cell populations in pediatric cohorts infected by influenza viruses.
