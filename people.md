@@ -9,15 +9,13 @@ PI:
     twitter: https://twitter.com/patwilsonlab
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
 
-Staff:
+Postdoc:
   - name: Lei Li
     img: ../../img/people/lei.jpeg
     desc: Lei is a Senior Bioinformatics Analyst in Wilson Lab. His recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
     website: https://leili-uchicago.github.io/
     url: https://leili-uchicago.github.io/
     github: https://github.com/LeiLi-Uchicago
-
-Postdoc:
  - name: Jenna Guthmiller
     img: ../../img/people/jenna.jpeg
     desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
@@ -49,12 +47,8 @@ Group:
 {% include list-circles.html items=page.PI %}
 
 
-## Research Scientist
 
-{% include list-circles.html items=page.Staff %}
-
-
-## Postdocs
+## Research Scientist and Postdocs
 
 {% include list-circles.html items=page.Postdoc %}
 
