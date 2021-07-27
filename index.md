@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Wilson Lab
-subtitle: Department of Medicine, University of Chicago
+subtitle: Gale and Ira Drukier Institute for Children’s Health, Weill Cornell Medicine
 cover-img:
   - "./img/star.png"
 ---

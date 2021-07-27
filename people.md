@@ -8,6 +8,15 @@ PI:
     website: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
     twitter: https://twitter.com/patwilsonlab
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
+
+Staff:
+  - name: Lei Li
+    img: ../../img/people/lei.jpeg
+    desc: Lei is a Senior Bioinformatics Analyst in Wilson Lab. His recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
+    website: https://leili-uchicago.github.io/
+    url: https://leili-uchicago.github.io/
+    github: https://github.com/LeiLi-Uchicago
+
 Postdoc:
   - name: Siri Changrob
     img: ../../img/people/siri.jpeg
@@ -19,22 +28,10 @@ Postdoc:
     img: ../../img/people/jenna.jpeg
     desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
     twitter: https://twitter.com/GuthmillerJenna
-  - name: Lei Li
-    img: ../../img/people/lei.jpeg
-    desc: Recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
-    website: https://leili-uchicago.github.io/
-    url: https://leili-uchicago.github.io/
-    github: https://github.com/LeiLi-Uchicago
   - name: Jiayi Sun
     img: ../../img/people/jiayi.jpeg
     desc: Jiayi is pairing an antigen baiting approach with single-cell RNA-sequencing to dissect antigen-specific B cell populations in pediatric cohorts infected by influenza viruses.
 Students:
-  - name: Haley Dugan
-    img: ../../img/people/haley.jpeg
-    desc: Haley is a fourth-year PhD candidate in the Wilson lab. She is interested in how age and exposure history impact the generation of protective antibody responses to influenza viruses. To do so, she is characterizing monoclonal antibodies induced by natural influenza virus infection and seasonal vaccination in adult and pediatric cohorts.
-  - name: Chris Stamper
-    img: ../../img/people/chris.jpeg
-    desc: Chris is studying some of the mechanisms that underlie affinity maturation, specifically in regards to the targeting of activation-induced cytidine deaminase. By combining computational techniques and modeling with transgenic mice studies, we hope to infer the functional importance and impact of these targeting mechanisms during the humoral immune response against both acute and chronic infections.
   - name: Dustin Shaw
     img: ../../img/people/dustin.jpeg
     desc: Dustin is studying the role of B-cells in the development of the intestinal pathologies associated with primary sclerosing cholangitis (PSC). Specifically, he uses the mAb generation technique to see if B-cells in PSC target any specific antigens.
@@ -45,27 +42,16 @@ Group:
   - name: Min Huang
     img: ../../img/people/people.jpeg
     desc: Research technician
-  - name: Henry Armando Utset
-    img: ../../img/people/henry.jpeg
-    desc: Henry is currently working on the Bill & Melinda Gates Foundation-funded universal influenza vaccine project, the aim of which is to develop a novel vaccine that induces a broadly reactive protective response targeted at stable epitopes.
-  - name: Jiaolong Wang
-    img: ../../img/people/jiaolong.jpeg
-    desc: Jiaolong is working on uncovering biological characteristics of broadly-neutralizing antibodies against the influenza virus, and applying these findings in developing a universal influenza vaccine.
-  - name: Ebru Ermis
-    img: ../../img/people/people.jpeg
-    desc: Undergraduate research assistant
-  - name: Mia McNair
-    img: ../../img/people/mia.jpeg
-    desc: Mia is a third-year biology major who is working on characterizing our collection of monoclonal antibodies through the use of techniques such as ELISA.
-  - name: Nathan Sattah
-    img: ../../img/people/people.jpeg
-    desc: Undergraduate research assistant
 ---
 
 ## Principal Investigator 
 
 {% include list-circles.html items=page.PI %}
 
+
+## Research Scientist
+
+{% include list-circles.html items=page.Staff %}
 
 
 ## Postdocs
@@ -87,6 +73,20 @@ Group:
 
 
 ## Alumni
+
+**Ebru Ermis** (research technician, 2020–2021)
+
+**Mia McNair** (research technician, 2019–2020)
+
+**Nathan Sattah** (research technician, 2020–2021)
+
+**Jiaolong Wang** (research technician, 2020–2021)
+
+**Henry Armando Utset** (research specialist, 2019–2021)
+
+**Haley Dugan** (graduate student, 2016–2021)
+
+**Chris Stamper** (graduate student, 2016–2021)
 
 **Olivia Stovicek** (research technician, 2019–2020)
 
