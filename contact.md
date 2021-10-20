@@ -9,7 +9,7 @@ The lab is located on the Weill Cornell Medicine, in the Belfer Research Buildin
  413 E 69th St, New York, NY 10021
 
 **Email**
- [wilsonp {at} uchicago {dot} edu](mailto:wilsonp@uchicago.edu)
+ [pcw4001 {at} med {dot} cornell {dot} edu](mailto:pcw4001@med.cornell.edu)
 
 **Phone**
  (773) 702-9009
