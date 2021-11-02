@@ -10,16 +10,16 @@ PI:
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
 
 Postdoc:
+  - name: Jenna Guthmiller
+    img: ../../img/people/jenna.jpeg
+    desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
+    website: https://twitter.com/GuthmillerJenna
   - name: Lei Li
     img: ../../img/people/lei.jpeg
     desc: Lei is a Senior Bioinformatics Analyst in Wilson Lab. His recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
     website: https://leili-uchicago.github.io/
     url: https://leili-uchicago.github.io/
     github: https://github.com/LeiLi-Uchicago
-  - name: Jenna Guthmiller
-    img: ../../img/people/jenna.jpeg
-    desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
-    twitter: https://twitter.com/GuthmillerJenna
   - name: Siri Changrob
     img: ../../img/people/siri.jpeg
     desc: Siri studies the novel influenza vaccine concept based on mosaic influenza proteins to protect against infection from most seasonal and pandemic influenza strains.
@@ -38,6 +38,9 @@ Group:
     img: ../../img/people/people.jpeg
     desc: Research technician
   - name: Min Huang
+    img: ../../img/people/people.jpeg
+    desc: Research technician
+  - name: Jyoti Kumar
     img: ../../img/people/people.jpeg
     desc: Research technician
 ---
