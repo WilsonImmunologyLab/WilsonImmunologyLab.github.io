@@ -9,7 +9,6 @@ We are seeking Postdoctoral Fellows interested in B cell/antibody mediated immun
 **Graduate students**
 
 **Undergraduates**
-Motivated undergraduate students are welcome to join the lab. Please email Principal Investigator Patrick Wilson at wilsonp @ uchicago.edu to express your interest, and tell us a little more about your interests and skills to ensure the best fit.
 
  
 
