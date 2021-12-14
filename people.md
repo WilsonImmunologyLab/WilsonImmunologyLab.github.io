@@ -40,9 +40,6 @@ Group:
   - name: Min Huang
     img: ../../img/people/people.jpeg
     desc: Research technician
-  - name: Jyoti Kumar
-    img: ../../img/people/jojo.jpg
-    desc: Research technician
 ---
 
 ## Principal Investigator 
