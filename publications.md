@@ -9,6 +9,27 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2021
 
+<img src="../../img/journalArticle.png" height="20px"> 
+#Guthmiller, Jenna J; #Julianna Han, Henry A. Utset, Lei Li, Linda Yu-Ling Lan, Carole Henry, Christopher T. Stamper, Meagan McMahon, George O’Dell, Monica L. Fernández-Quintero, Alec W. Freyn, Fatima Amanat, Olivia Stovicek, Lauren Gentles, Sara T. Richey, Alba Torrents de la Peña, Victoria Rosado, Haley L. Dugan, Nai-Ying Zheng, Micah E. Tepora, Dalia J. Bitar, Siriruk Changrob, Shirin Strohmeier, Min Huang, Adolfo García-Sastre, Klaus R. Liedl, Jesse D. Bloom, Raffael Nachbagauer, Peter Palese, Florian Krammer, Lynda Coughlan, Andrew B. Ward & Patrick C. Wilson.	*Broadly neutralizing antibodies target a hemagglutinin anchor epitope*	**_Nature_** (2021) https://doi.org/10.1038/s41586-021-04356-8 [Nature](https://www.nature.com/articles/s41586-021-04356-8)
+
+<img src="../../img/journalArticle.png" height="20px"> 
+Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, Lei Li, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_mBio_** 12, no. 6 (2021): e02975-21. [ASM Journals](https://journals.asm.org/doi/10.1128/mBio.02975-21)
+
+<img src="../../img/journalArticle.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
+#Li, Lei; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Improved integration of single-cell transcriptome and surface protein expression by LinQ-View*	**_Cell Reports Methods_**  1 (4), 100056 (2021) [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
+
+<img src="../../img/journalArticle.png" height="20px"> 
+Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; Li, Lei; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [ASM Journals](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
+
+<img src="../../img/journalArticle.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+#Dugan, Haley L; #Stamper, Christopher; #Li, Lei; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_** 54, no. 6 (2021): 1290-1303. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
+
+<img src="../../img/journalArticle.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+Lei Li, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
+
+<img src="../../img/journalArticle.png" height="20px"> 
+Guthmiller, Jenna J; Stovicek, Olivia; Wang, Jiaolong; Changrob, Siriruk; Li, Lei; Halfmann, Peter; Zheng, Nai-Ying; Utset, Henry; Stamper, Christopher T; Dugan, Haley L; 	*SARS-CoV-2 infection severity is linked to superior humoral immunity against the spike*	**_MBio_** 12, no. 1 (2021): e02940-20 [ASM Journals](https://journals.asm.org/doi/full/10.1128/mBio.02940-20)
+
 <img src="../../img/journalArticle.png" height="20px">
 J.J. Guthmiller, J. Han, L. Li, A. W. Freyn, S. T. H. Liu, O. Stovicek, C. T. Stamper, H. L. Dugan, M. E. Tepora, H. A. Utset, D. J. Bitar, N. J. Hamel, S. Changrob, N.-Y. Zheng, M. Huang, F. Krammer, R. Nachbagauer, P. Palese, A. B. Ward, P. C. Wilson, *First exposure to the pandemic H1N1 virus induced broadly neutralizing antibodies targeting hemagglutinin head epitopes*. **Sci. Transl. Med.** 13, eabg4535 (2021).[Full text](http://stm.sciencemag.org/cgi/content/full/13/596/eabg4535?ijkey=I6urCwrxJkhs2&keytype=ref&siteid=scitransmed)
 
