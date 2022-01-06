@@ -15,16 +15,16 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../../img/journalArticle.png" height="20px"> 
 Siriruk Changrob, Yanbin Fu, Jenna Guthmiller, Peter Halfmann, Lei Li, Christopher Stamper, Haley Dugan, Molly Accola, William Rehrauer, Nai-Ying Zheng, Min Huang, Jiaolong Wang, Steven Erickson, Henry Utset, Hortencia Graves, Fatima Amanat, D Noah Sather, Florian Krammer, Yoshihiro Kawaoka, Patrick Wilson; *Cross neutralization of emerging SARS-CoV-2 variants of concern by antibodies targeting distinct epitopes on spike* **_mBio_** 12, no. 6 (2021): e02975-21. [ASM Journals](https://journals.asm.org/doi/10.1128/mBio.02975-21)
 
-<img src="../../img/journalArticle.png" height="20px"> <img src="../../img/ystar.png" height="20px"> 
+<img src="../../img/journalArticle.png" height="20px"> 
 #Li, Lei; #Dugan, Haley L; #Stamper, Christopher; Lan, Linda Yu-Ling; Asby, Nicholas; Knight, Matthew; Stovicek, Olivia; Zheng, Nai-Ying; Madariaga, Maria Lucia; Shanmugarajah, Kumaran; 	*Improved integration of single-cell transcriptome and surface protein expression by LinQ-View*	**_Cell Reports Methods_**  1 (4), 100056 (2021) [Cell Press](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00104-1)
 
 <img src="../../img/journalArticle.png" height="20px"> 
 Guthmiller, Jenna J; Utset, Henry A; Henry, Carole; Li, Lei; Zheng, Nai-Ying; Sun, Weina; Vieira, Marcos C; Zost, Seth; Huang, Min; Hensley, Scott E; 	*An egg-derived sulfated N-Acetyllactosamine glycan is an antigenic decoy of influenza virus vaccines*	**_Mbio_**	12, no. 3 (2021): e00838-21. [ASM Journals](https://journals.asm.org/doi/full/10.1128/mBio.00838-21)
 
-<img src="../../img/journalArticle.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+<img src="../../img/journalArticle.png" height="20px"> 
 #Dugan, Haley L; #Stamper, Christopher; #Li, Lei; Changrob, Siriruk; Asby, Nicholas; Halfmann, Peter; Zheng, Nai-Ying; Huang, Min; Shaw, Dustin G; Cobb, Mari; 	*Profiling B cell immunodominance after SARS-CoV-2 infection reveals antibody evolution to non-neutralizing viral targets*	**_Immunity_** 54, no. 6 (2021): 1290-1303. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1074761321001989)
 
-<img src="../../img/journalArticle.png" height="20px">  <img src="../../img/ystar.png" height="20px"> 
+<img src="../../img/journalArticle.png" height="20px"> 
 Lei Li, Olivia Stovicek, Jenna J. Guthmiller, Siriruk Changrob, Yanbin Fu, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson; 	*Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins*	**_bioRxiv_**	2021 [Preprint→](https://www.biorxiv.org/content/10.1101/2021.04.29.441999v1)
 
 <img src="../../img/journalArticle.png" height="20px"> 
