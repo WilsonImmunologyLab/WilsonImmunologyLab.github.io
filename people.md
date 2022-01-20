@@ -10,10 +10,6 @@ PI:
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
 
 Postdoc:
-  - name: Jenna Guthmiller
-    img: ../../img/people/jenna.jpeg
-    desc: Jenna studies the features of broadly-neutralizing antibodies against influenza viruses and how vaccines can induce them.
-    website: https://twitter.com/GuthmillerJenna
   - name: Lei Li
     img: ../../img/people/lei.jpeg
     desc: Lei is a Senior Bioinformatics Analyst in Wilson Lab. His recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
@@ -67,6 +63,9 @@ Group:
 
 
 ## Alumni
+
+**Jenna Guthmiller** (postdoc, 2017–2022) 
+ Current: Assistant Professor in the Department of Immunology and Microbiology, University of Colorado Anschutz Medical Campus.  
 
 **Ebru Ermis** (research technician, 2020–2021)
 
