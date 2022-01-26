@@ -25,6 +25,9 @@ Postdoc:
   - name: Jiayi Sun
     img: ../../img/people/jiayi.jpeg
     desc: Jiayi is pairing an antigen baiting approach with single-cell RNA-sequencing to dissect antigen-specific B cell populations in pediatric cohorts infected by influenza viruses.
+  - name: Joshua McGrath
+    img: ../../img/people/Josh.jpg
+    desc: Josh is working to engineer novel H3N2 influenza vaccine candidates, and is investigating the relationship between mucosal/systemic B cell responses.
 Students:
   - name: Dustin Shaw
     img: ../../img/people/dustin.jpeg
