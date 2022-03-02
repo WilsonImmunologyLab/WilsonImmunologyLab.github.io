@@ -28,6 +28,9 @@ Postdoc:
   - name: Joshua McGrath
     img: ../../img/people/Josh.jpg
     desc: Josh is working to engineer novel H3N2 influenza vaccine candidates, and is investigating the relationship between mucosal/systemic B cell responses.
+  - name: Atsuhiro Yasuhara
+    img: ../../img/people/Atsuhiro.jpg
+    desc: Atsu is working to explore antibodies showing cross-reactivity against a broad range of coronaviruses, and develop the universal coronavirus vaccine.
 Students:
   - name: Dustin Shaw
     img: ../../img/people/dustin.jpeg
