@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Wilson Lab
-subtitle: Gale and Ira Drukier Institute for Children’s Health, Weill Cornell Medicine
+subtitle: Gale and Ira Drukier Institute for Children’s Health <br> Weill Cornell Medicine
 cover-img:
-  - "./img/star.png"
+  - "./img/wcm.png"
 ---
 
 <h2>What we do</h2>
