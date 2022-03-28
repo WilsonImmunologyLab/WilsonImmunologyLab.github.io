@@ -42,6 +42,9 @@ Group:
   - name: Min Huang
     img: ../../img/people/people.jpeg
     desc: Research technician
+  - name: Dewey Wilbanks
+    img: ../../img/people/dewey.jpeg
+    desc: Research technician
 ---
 
 ## Principal Investigator 
