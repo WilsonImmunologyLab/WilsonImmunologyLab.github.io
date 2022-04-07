@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 ## 2022
+<img src="../../img/journal-article.png" height="20px"> 
+Joshua J.C. McGrath, Lei Li, Patrick C. Wilson. *Memory B cell diversity: insights for optimized vaccine design*	**_Trends in Immunology_** (2022) https://doi.org/10.1016/j.it.2022.03.005 [Cell Press](https://doi.org/10.1016/j.it.2022.03.005)
+
 <img src="../../img/journalArticle.png" height="20px"> 
 Lei Li, Siriruk Changrob, Yanbin Fu,Olivia Stovicek, Jenna J. Guthmiller, Joshua JC McGrath, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson. 	*Librator: a platform for the optimized analysis, design, and expression of mutable influenza viral antigens* **_Briefings in Bioinformatics_** (2022) bbac028 [Oxford Press](https://doi.org/10.1093/bib/bbac028)
 
