@@ -5,13 +5,16 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=4gFqpdYAAAAJ&hl=en). 
 
+## 2023
+<img src="../../img/journalArticle.png" height="20px">
+#Changrob S, Halfmann PJ, Liu H, Torres JL, #McGrath JJ, Ozorowski G, Li L, #Wilbanks GD, Kuroda M, Maemura T, Huang M, #Zheng NY, Turner HL, Erickson SA, #Fu Y, #Yasuhara A, Singh G, Monahan B, Mauldin J, Srivastava K, Simon V, Krammer F, Sather DN, Ward AB, Wilson IA, Kawaoka Y, #Wilson PC. Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody against antigenically distinct Omicron subvariants. J Clin Invest. 2023 Apr 17;133(8). doi: 10.1172/JCI166844. PubMed PMID: 36862518; PubMed Central PMCID: PMC10104900. (https://doi.org/10.1172/jci166844)
 
 ## 2022
 <img src="../../img/journalArticle.png" height="20px"> 
 Joshua J.C. McGrath, Lei Li, Patrick C. Wilson. *Memory B cell diversity: insights for optimized vaccine design*	**_Trends in Immunology_** (2022) https://doi.org/10.1016/j.it.2022.03.005 [Cell Press](https://doi.org/10.1016/j.it.2022.03.005)
 
 <img src="../../img/journalArticle.png" height="20px"> 
-Lei Li, Siriruk Changrob, Yanbin Fu,Olivia Stovicek, Jenna J. Guthmiller, Joshua JC McGrath, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson. 	*Librator: a platform for the optimized analysis, design, and expression of mutable influenza viral antigens* **_Briefings in Bioinformatics_** (2022) bbac028 [Oxford Press](https://doi.org/10.1093/bib/bbac028)
+Lei Li, Siriruk Changrob, Yanbin Fu, Olivia Stovicek, Jenna J. Guthmiller, Joshua JC McGrath, Haley L. Dugan, Christopher T. Stamper, Nai-Ying Zheng, Min Huang, Patrick C Wilson. 	*Librator: a platform for the optimized analysis, design, and expression of mutable influenza viral antigens* **_Briefings in Bioinformatics_** (2022) bbac028 [Oxford Press](https://doi.org/10.1093/bib/bbac028)
 
 <img src="../../img/journalArticle.png" height="20px"> 
 #Guthmiller, Jenna J; #Julianna Han, Henry A. Utset, Lei Li, Linda Yu-Ling Lan, Carole Henry, Christopher T. Stamper, Meagan McMahon, George O’Dell, Monica L. Fernández-Quintero, Alec W. Freyn, Fatima Amanat, Olivia Stovicek, Lauren Gentles, Sara T. Richey, Alba Torrents de la Peña, Victoria Rosado, Haley L. Dugan, Nai-Ying Zheng, Micah E. Tepora, Dalia J. Bitar, Siriruk Changrob, Shirin Strohmeier, Min Huang, Adolfo García-Sastre, Klaus R. Liedl, Jesse D. Bloom, Raffael Nachbagauer, Peter Palese, Florian Krammer, Lynda Coughlan, Andrew B. Ward & Patrick C. Wilson.	*Broadly neutralizing antibodies target a hemagglutinin anchor epitope*	**_Nature_** doi: 10.1038/s41586-021-04356-8. Online ahead of print Dec 23, 2021. PMID: 34942633. (2022) [Nature](https://www.nature.com/articles/s41586-021-04356-8)
