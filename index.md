@@ -16,7 +16,7 @@ The antibody biology lab, headed by Patrick Wilson, studies various aspects of a
 
 <p>
  <a class="twitter-timeline"
- href="https://twitter.com/patwilsonlab"
+ href="https://twitter.com/patwilsonlab1"
  data-widget-id="340639437736255489"
  data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@patwilsonlab)</a>
  <script>
