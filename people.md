@@ -34,8 +34,6 @@ Postdoc:
   - name: Chloe Troxell
     img: ../../img/people/people.jpeg
     desc: Chloe is a bioinformatics analyst in the Wilson Lab.
-Students:
-
 Group:
   - name: Nai-Ying Zheng
     img: ../../img/people/people.jpeg
