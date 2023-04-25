@@ -6,16 +6,10 @@ PI:
     img: ../../img/people/patrick.jpeg
     desc: Dr. Wilson's research is focused on B cell biology which revolves around the specificity of expressed antibody molecules. 
     website: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
-    twitter: https://twitter.com/patwilsonlab
+    twitter: [https://twitter.com/patwilsonlab](https://twitter.com/PatWilsonLab1)
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
 
 Postdoc:
-  - name: Lei Li
-    img: ../../img/people/lei.jpeg
-    desc: Lei is a Senior Bioinformatics Analyst in Wilson Lab. His recent work focuses on developing novel computational algorithms for single cell multi-modal data processing and applying bioinformatics approaches to the study of B cell biology.
-    website: https://leili-uchicago.github.io/
-    url: https://leili-uchicago.github.io/
-    github: https://github.com/LeiLi-Uchicago
   - name: Siri Changrob
     img: ../../img/people/Siri_new.jpeg
     desc: Siri is pursuing a specialization in human B cell response to infectious diseases, particularly in the context of human coronaviruses and influenza. Her work aims to understand the diversity of B cells and their antibody responses following natural infection and vaccination, with the ultimate goal of advancing vaccine design by identifying how protective antibodies are formed.
@@ -41,9 +35,7 @@ Postdoc:
     img: ../../img/people/people.jpeg
     desc: Chloe is a bioinformatics analyst in the Wilson Lab.
 Students:
-  - name: Dustin Shaw
-    img: ../../img/people/dustin.jpeg
-    desc: Dustin is studying the role of B-cells in the development of the intestinal pathologies associated with primary sclerosing cholangitis (PSC). Specifically, he uses the mAb generation technique to see if B-cells in PSC target any specific antigens.
+
 Group:
   - name: Nai-Ying Zheng
     img: ../../img/people/people.jpeg
@@ -62,7 +54,7 @@ Group:
 
 
 
-## Research Scientist and Postdocs
+## Research Scientists and Postdocs
 
 {% include list-circles.html items=page.Postdoc %}
 
@@ -81,6 +73,11 @@ Group:
 
 
 ## Alumni
+**Lei Li** (Senior Bioinformatics Analyst, 2019-2022)
+  Current: Lead Bioinformatics Research Scientist at St. Jude Children's Research Hospital
+
+**Dustin Shaw** (graduate student)
+  Current: MD/PhD Immunology, UChicago
 
 **Jenna Guthmiller** (postdoc, 2017–2022) 
  Current: Assistant Professor in the Department of Immunology and Microbiology, University of Colorado Anschutz Medical Campus.  
