@@ -36,10 +36,10 @@ Postdoc:
     desc:      
   - name: Jordan Chervin
     img: ../../img/people/people.jpeg
-    desc:      
+    desc: Jordan is a bioinformatics analyst in the Wilson Lab.
   - name: Chloe Troxell
     img: ../../img/people/people.jpeg
-    desc:      
+    desc: Chloe is a bioinformatics analyst in the Wilson Lab.
 Students:
   - name: Dustin Shaw
     img: ../../img/people/dustin.jpeg
