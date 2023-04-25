@@ -7,7 +7,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2023
 <img src="../../img/journalArticle.png" height="20px">
-#Changrob S, Halfmann PJ, Liu H, Torres JL, #McGrath JJ, Ozorowski G, Li L, #Wilbanks GD, Kuroda M, Maemura T, Huang M, #Zheng NY, Turner HL, Erickson SA, #Fu Y, #Yasuhara A, Singh G, Monahan B, Mauldin J, Srivastava K, Simon V, Krammer F, Sather DN, Ward AB, Wilson IA, Kawaoka Y, #Wilson PC. Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody against antigenically distinct Omicron subvariants. J Clin Invest. 2023 Apr 17;133(8). doi: 10.1172/JCI166844. PubMed PMID: 36862518; PubMed Central PMCID: PMC10104900. (https://doi.org/10.1172/jci166844)
+Changrob S, Halfmann PJ, Liu H, Torres JL, McGrath JJ, Ozorowski G, Li L, Wilbanks GD, Kuroda M, Maemura T, Huang M, Zheng NY, Turner HL, Erickson SA, Fu Y, Yasuhara A, Singh G, Monahan B, Mauldin J, Srivastava K, Simon V, Krammer F, Sather DN, Ward AB, Wilson IA, Kawaoka Y, Wilson PC. Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody against antigenically distinct Omicron subvariants. J Clin Invest. 2023 Apr 17;133(8). doi: 10.1172/JCI166844. PubMed PMID: 36862518; PubMed Central PMCID: PMC10104900. (https://doi.org/10.1172/jci166844)
 
 ## 2022
 <img src="../../img/journalArticle.png" height="20px"> 
