@@ -58,12 +58,6 @@ Group:
 
 
 
-## PhD Students
-
-{% include list-circles.html items=page.Students %}
-
-
-
 ## Research technicians
 
 {% include list-circles.html items=page.Group %}
