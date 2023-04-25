@@ -17,8 +17,8 @@ Postdoc:
     url: https://leili-uchicago.github.io/
     github: https://github.com/LeiLi-Uchicago
   - name: Siri Changrob
-    img: ../../img/people/siri.jpeg
-    desc: Siri studies the novel influenza vaccine concept based on mosaic influenza proteins to protect against infection from most seasonal and pandemic influenza strains.
+    img: ../../img/people/Siri_new.jpeg
+    desc: Siri is pursuing a specialization in human B cell response to infectious diseases, particularly in the context of human coronaviruses and influenza. Her work aims to understand the diversity of B cells and their antibody responses following natural infection and vaccination, with the ultimate goal of advancing vaccine design by identifying how protective antibodies are formed.
   - name: Yanbin Fu
     img: ../../img/people/yanbin.jpeg
     desc: Yanbin is working on design and development of a universal influenza vaccine that could induce broadly neutralizing antibodies directed to the HA stem portion of H3, the more lethal subtype among influenza A subtypes.
@@ -26,7 +26,7 @@ Postdoc:
     img: ../../img/people/jiayi.jpeg
     desc: Jiayi is pairing an antigen baiting approach with single-cell RNA-sequencing to dissect antigen-specific B cell populations in pediatric cohorts infected by influenza viruses.
   - name: Joshua McGrath
-    img: ../../img/people/Josh.jpg
+    img: ../../img/people/Josh_new.jpg
     desc: Josh is working to engineer novel H3N2 influenza vaccine candidates, and is investigating the relationship between mucosal/systemic B cell responses.
   - name: Atsuhiro Yasuhara
     img: ../../img/people/Atsuhiro.jpg
