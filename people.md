@@ -6,7 +6,7 @@ PI:
     img: ../../img/people/patrick.jpeg
     desc: Dr. Wilson's research is focused on B cell biology which revolves around the specificity of expressed antibody molecules. 
     website: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
-    twitter: [https://twitter.com/patwilsonlab](https://twitter.com/PatWilsonLab1)
+    twitter: https://twitter.com/patwilsonlab1
     url: https://scholar.google.com/citations?hl=en&user=4gFqpdYAAAAJ&view_op=list_works
 
 Postdoc:
