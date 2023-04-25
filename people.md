@@ -31,13 +31,13 @@ Postdoc:
   - name: Atsuhiro Yasuhara
     img: ../../img/people/Atsuhiro.jpg
     desc: Atsu is working to explore antibodies showing cross-reactivity against a broad range of coronaviruses, and develop the universal coronavirus vaccine.
- - name: Sean Nelsen
+  - name: Sean Nelson
     img: ../../img/people/people.jpeg
     desc:      
- - name: Jordan Chervin
+  - name: Jordan Chervin
     img: ../../img/people/people.jpeg
     desc:      
- - name: Chloe Troxell
+  - name: Chloe Troxell
     img: ../../img/people/people.jpeg
     desc:      
 Students:
