@@ -29,7 +29,7 @@ Postdoc:
     img: ../../img/people/people.jpeg
     desc:      
   - name: Jordan Chervin
-    img: ../../img/people/people.jpeg
+    img: ../../img/people/Jordan.jpeg
     desc: Jordan is a bioinformatics analyst in the Wilson Lab.
   - name: Chloe Troxell
     img: ../../img/people/people.jpeg
