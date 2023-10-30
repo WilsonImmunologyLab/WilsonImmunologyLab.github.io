@@ -45,7 +45,7 @@ Group:
     img: ../../img/people/dewey.jpeg
     desc: Research technician
   - name: Vanessa Dudley
-    img: ../../img/people/Vanessa.jpeg
+    img: ../../img/people/Vanessa.jpg
     desc: Research Program Manager
 ---
 
