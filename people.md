@@ -44,6 +44,9 @@ Group:
   - name: Dewey Wilbanks
     img: ../../img/people/dewey.jpeg
     desc: Research technician
+  - name: Vanessa Dudley
+    img: ../../img/people/Vanessa.jpeg
+    desc: Research Program Manager
 ---
 
 ## Principal Investigator 
@@ -58,7 +61,7 @@ Group:
 
 
 
-## Research technicians
+## Research Staff
 
 {% include list-circles.html items=page.Group %}
 
