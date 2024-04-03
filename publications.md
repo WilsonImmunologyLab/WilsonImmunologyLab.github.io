@@ -7,22 +7,22 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2023
 <img src="../../img/journalArticle.png" height="20px">
-Bolton MJ, Santos JJS, Arevalo CP, Griesman T, Watson M, Li SH, Bates P, Ramage H, Wilson PC, Hensley SE. *IgG3 subclass antibodies recognize antigenically drifted influenza viruses and SARS-CoV-2 variants through efficient bivalent binding.* **Proc Natl Acad Sci U S A.** 2023 Aug 29;120(35):e2216521120. doi: 10.1073/pnas.2216521120. Epub 2023 Aug 21. PMID: 37603748; PMCID: PMC10469028. (https://doi.org/10.1073/pnas.2216521120)
+Bolton MJ, Santos JJS, Arevalo CP, Griesman T, Watson M, Li SH, Bates P, Ramage H, Wilson PC, Hensley SE. *IgG3 subclass antibodies recognize antigenically drifted influenza viruses and SARS-CoV-2 variants through efficient bivalent binding.* **Proc Natl Acad Sci U S A.** 2023 Aug 29;120(35):e2216521120. doi: 10.1073/pnas.2216521120. Epub 2023 Aug 21. PMID: 37603748; PMCID: PMC10469028. [PNAS](https://doi.org/10.1073/pnas.2216521120)
 
 <img src="../../img/journalArticle.png" height="20px">
-Vieira MC, Palm AE, Stamper CT, Tepora ME, Nguyen KD, Pham TD, Boyd SD, Wilson PC, Cobey S. *Germline-encoded specificities and the predictability of the B cell response.* **PLoS Pathog.** 2023 Aug 25;19(8):e1011603. doi: 10.1371/journal.ppat.1011603. PMID: 37624867; PMCID: PMC10484431. (https://doi.org/10.1371/journal.ppat.1011603)
+Vieira MC, Palm AE, Stamper CT, Tepora ME, Nguyen KD, Pham TD, Boyd SD, Wilson PC, Cobey S. *Germline-encoded specificities and the predictability of the B cell response.* **PLoS Pathog.** 2023 Aug 25;19(8):e1011603. doi: 10.1371/journal.ppat.1011603. PMID: 37624867; PMCID: PMC10484431. [PLoS Pathogens](https://doi.org/10.1371/journal.ppat.1011603)
 
 <img src="../../img/journalArticle.png" height="20px">
-Shaw DG, Aguirre-Gamboa R, Vieira MC, Gona S, DiNardi N, Wang A, Dumaine A, Gelderloos-Arends J, Earley ZM, Meckel KR, Ciszewski C, Castillo A, Monroe K, Torres J, Shah SC, Colombel JF, Itzkowitz S, Newberry R, Cohen RD, Rubin DT, Quince C, Cobey S, Jonkers IH, Weber CR, Pekow J, Wilson PC, Barreiro LB, Jabri B. *Antigen-driven colonic inflammation is associated with development of dysplasia in primary sclerosing cholangitis.* **Nat Med.** 2023 Jun;29(6):1520-1529. doi: 10.1038/s41591-023-02372-x. Epub 2023 Jun 15. PMID: 37322120; PMCID: PMC10287559. (https://doi.org/10.1038/s41591-023-02372-x)
+Shaw DG, Aguirre-Gamboa R, Vieira MC, Gona S, DiNardi N, Wang A, Dumaine A, Gelderloos-Arends J, Earley ZM, Meckel KR, Ciszewski C, Castillo A, Monroe K, Torres J, Shah SC, Colombel JF, Itzkowitz S, Newberry R, Cohen RD, Rubin DT, Quince C, Cobey S, Jonkers IH, Weber CR, Pekow J, Wilson PC, Barreiro LB, Jabri B. *Antigen-driven colonic inflammation is associated with development of dysplasia in primary sclerosing cholangitis.* **Nat Med.** 2023 Jun;29(6):1520-1529. doi: 10.1038/s41591-023-02372-x. Epub 2023 Jun 15. PMID: 37322120; PMCID: PMC10287559. [Nature Medicine](https://doi.org/10.1038/s41591-023-02372-x)
 
 <img src="../../img/journalArticle.png" height="20px">
-Bridgemohan RSH, Deitch MJ, Gebremicael T, Whiles MR, Wilson PC, Bachoon D, Tharpe I. *Environmental risk assessment for fecal contamination sources in urban and peri-urban estuaries, in Escambia and Santa Rosa counties, FL, USA.* **Environ Monit Assess.** 2023 Jun 21;195(7):867. doi: 10.1007/s10661-023-11478-1. PMID: 37341799. (https://doi.org/10.1007/s10661-023-11478-1)
+Bridgemohan RSH, Deitch MJ, Gebremicael T, Whiles MR, Wilson PC, Bachoon D, Tharpe I. *Environmental risk assessment for fecal contamination sources in urban and peri-urban estuaries, in Escambia and Santa Rosa counties, FL, USA.* **Environ Monit Assess.** 2023 Jun 21;195(7):867. doi: 10.1007/s10661-023-11478-1. PMID: 37341799. [Environmental Monitoring and Assessment](https://doi.org/10.1007/s10661-023-11478-1)
 
 <img src="../../img/journalArticle.png" height="20px">
-McGrath JJC, Wilson PC. *Fate-mapping antibodies to study sinful immune dynamics.* **Nat Immunol.** 2023 Apr;24(4):570-572. doi: 10.1038/s41590-023-01467-4. PMID: 36959294. (https://doi.org/10.1038/s41590-023-01467-4)
+McGrath JJC, Wilson PC. *Fate-mapping antibodies to study sinful immune dynamics.* **Nat Immunol.** 2023 Apr;24(4):570-572. doi: 10.1038/s41590-023-01467-4. PMID: 36959294. [Nature Immunology](https://doi.org/10.1038/s41590-023-01467-4)
 
 <img src="../../img/journalArticle.png" height="20px">
-Changrob S, Halfmann PJ, Liu H, Torres JL, McGrath JJ, Ozorowski G, Li L, Wilbanks GD, Kuroda M, Maemura T, Huang M, Zheng NY, Turner HL, Erickson SA, Fu Y, Yasuhara A, Singh G, Monahan B, Mauldin J, Srivastava K, Simon V, Krammer F, Sather DN, Ward AB, Wilson IA, Kawaoka Y, Wilson PC. *Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody against antigenically distinct Omicron subvariants.* **_J Clin Invest_**. 2023 Apr 17;133(8). doi: 10.1172/JCI166844. PubMed PMID: 36862518; PubMed Central PMCID: PMC10104900. (https://doi.org/10.1172/jci166844)
+Changrob S, Halfmann PJ, Liu H, Torres JL, McGrath JJ, Ozorowski G, Li L, Wilbanks GD, Kuroda M, Maemura T, Huang M, Zheng NY, Turner HL, Erickson SA, Fu Y, Yasuhara A, Singh G, Monahan B, Mauldin J, Srivastava K, Simon V, Krammer F, Sather DN, Ward AB, Wilson IA, Kawaoka Y, Wilson PC. *Site of vulnerability on SARS-CoV-2 spike induces broadly protective antibody against antigenically distinct Omicron subvariants.* **_J Clin Invest_**. 2023 Apr 17;133(8). doi: 10.1172/JCI166844. PubMed PMID: 36862518; PubMed Central PMCID: PMC10104900. [J Clin Invest](https://doi.org/10.1172/jci166844)
 
 ## 2022
 <img src="../../img/journalArticle.png" height="20px"> 
