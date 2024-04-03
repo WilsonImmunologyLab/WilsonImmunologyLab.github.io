@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2023
 <img src="../../img/journalArticle.png" height="20px">
+Borowska MT, Boughter CT, Bunker JJ, Guthmiller JJ, Wilson PC, Roux B, Bendelac A, Adams EJ. *Biochemical and biophysical characterization of natural polyreactivity in antibodies.* **Cell Rep.** 2023 Oct 31;42(10):113190. doi: 10.1016/j.celrep.2023.113190. Epub 2023 Oct 5. PMID: 37804505; PMCID: PMC10858392. [Cell Reports](https://doi.org/10.1016/j.celrep.2023.113190)
+
+<img src="../../img/journalArticle.png" height="20px">
 Bolton MJ, Santos JJS, Arevalo CP, Griesman T, Watson M, Li SH, Bates P, Ramage H, Wilson PC, Hensley SE. *IgG3 subclass antibodies recognize antigenically drifted influenza viruses and SARS-CoV-2 variants through efficient bivalent binding.* **Proc Natl Acad Sci U S A.** 2023 Aug 29;120(35):e2216521120. doi: 10.1073/pnas.2216521120. Epub 2023 Aug 21. PMID: 37603748; PMCID: PMC10469028. [PNAS](https://doi.org/10.1073/pnas.2216521120)
 
 <img src="../../img/journalArticle.png" height="20px">
