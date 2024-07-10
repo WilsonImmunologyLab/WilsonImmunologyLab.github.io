@@ -41,9 +41,6 @@ Group:
   - name: Min Huang
     img: ../../img/people/people.jpeg
     desc: Research technician
-  - name: Dewey Wilbanks
-    img: ../../img/people/dewey.jpeg
-    desc: Research technician
   - name: Vanessa Dudley
     img: ../../img/people/Vanessa.jpg
     desc: Research Program Manager
@@ -68,6 +65,9 @@ Group:
 
 
 ## Alumni
+**Dewey Wilbanks** (Research Technician, 2022-2024)
+  Current: Medical Student at Hofstra/Northwell Zucker School of Medicine
+  
 **Lei Li** (Senior Bioinformatics Analyst, 2019-2022)
   Current: Lead Bioinformatics Research Scientist at St. Jude Children's Research Hospital
 
