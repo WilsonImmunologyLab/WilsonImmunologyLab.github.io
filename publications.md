@@ -5,6 +5,23 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=4gFqpdYAAAAJ&hl=en). 
 
+## 2024
+
+<img src="../../img/journalArticle.png" height="20px">
+Cowling BJ, Wong SS, Santos JJS, Touyon L, Ort JT, Ye N, Kwok NKM, Ho F, Cheng SMS, Ip DKM, Peiris M, Webby RJ, Wilson PC, Valkenburg SA, Tsang JS, Leung NHL, Hensley SE, Cobey S. *Preliminary findings from the Dynamics of the Immune Responses to Repeat Influenza Vaccination Exposures (DRIVE I) Study: a Randomized Controlled Trial.* **Clin Infect Dis.** 2024 Jul 23:ciae380. doi: 10.1093/cid/ciae380. Epub ahead of print. PMID: 39041887. [Clinical Infectious Diseases](https://doi.org/10.1093/cid/ciae380)
+
+<img src="../../img/journalArticle.png" height="20px">
+Cyster JG, Wilson PC. *Antibody modulation of B cell responses-Incorporating positive and negative feedback.* **Immunity.** 2024 Jul 9;57(7):1466-1481. doi: 10.1016/j.immuni.2024.06.009. PMID: 38986442; PMCID: PMC11257158. [Immunity](https://doi.org/10.1016/j.immuni.2024.06.009)
+
+<img src="../../img/journalArticle.png" height="20px">
+Li L, Sun J, Fu Y, Changrob S, McGrath JJC, Wilson PC. *A hybrid demultiplexing strategy that improves performance and robustness of cell hashing.* **Brief Bioinform.** 2024 May 23;25(4):bbae254. doi: 10.1093/bib/bbae254. PMID: 38828640; PMCID: PMC11145454. [Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbae254)
+
+<img src="../../img/journalArticle.png" height="20px">
+Richards KA, Changrob S, Thomas PG, Wilson PC, Sant AJ. *Lack of memory recall in human CD4 T cells elicited by the first encounter with SARS-CoV-2.* **iScience.** 2024 May 17;27(6):109992. doi: 10.1016/j.isci.2024.109992. PMID: 38868209; PMCID: PMC11166706. [iScience](https://doi.org/10.1016/j.isci.2024.109992)
+
+<img src="../../img/journalArticle.png" height="20px">
+Kim Y, Maltseva N, Tesar C, Jedrzejczak R, Endres M, Ma H, Dugan HL, Stamper CT, Chang C, Li L, Changrob S, Zheng NY, Huang M, Ramanathan A, Wilson P, Michalska K, Joachimiak A. *Epitopes recognition of SARS-CoV-2 nucleocapsid RNA binding domain by human monoclonal antibodies.* **iScience.** 2024 Jan 19;27(2):108976. doi: 10.1016/j.isci.2024.108976. PMID: 38327783; PMCID: PMC10847736. [iScience](https://doi.org/10.1016/j.isci.2024.108976)
+
 ## 2023
 <img src="../../img/journalArticle.png" height="20px">
 Borowska MT, Boughter CT, Bunker JJ, Guthmiller JJ, Wilson PC, Roux B, Bendelac A, Adams EJ. *Biochemical and biophysical characterization of natural polyreactivity in antibodies.* **Cell Rep.** 2023 Oct 31;42(10):113190. doi: 10.1016/j.celrep.2023.113190. Epub 2023 Oct 5. PMID: 37804505; PMCID: PMC10858392. [Cell Reports](https://doi.org/10.1016/j.celrep.2023.113190)
