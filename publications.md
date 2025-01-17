@@ -5,6 +5,13 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=4gFqpdYAAAAJ&hl=en). 
 
+## 2025
+<img src="../../img/journalArticle.png" height="20px">
+Halfmann, P.J., Patel, R.S., Loeffler, K. et al. *Multivalent S2 subunit vaccines provide broad protection against Clade 1 sarbecoviruses in female mice*. **Nat Commun** 16, 462 (2025). [Nature Communications](https://doi.org/10.1038/s41467-025-55824-y)
+
+<img src="../../img/journalArticle.png" height="20px">
+Joshua J.C. McGrath, Juyeon Park, Chloe A. Troxell, Jordan C. Chervin, Lei Li, Johnathan R. Kent, Siriruk Changrob, Yanbin Fu, Min Huang, Nai-Ying Zheng, G. Dewey Wilbanks, Sean A. Nelson, Jiayi Sun, Giorgio Inghirami, Maria Lucia L. Madariaga, George Georgiou, Patrick C. Wilson. *Mutability and hypermutation antagonize immunoglobulin codon optimality.* **Molecular Cell** 2025 Jan 16; 430-444.e6, ISSN 1097-2765, [Molecular Cell](https://doi.org/10.1016/j.molcel.2024.11.033)
+
 ## 2024
 
 <img src="../../img/journalArticle.png" height="20px">
