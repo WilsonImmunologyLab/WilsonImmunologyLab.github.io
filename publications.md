@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2025
 <img src="../../img/journalArticle.png" height="20px">
+Sallie R. Permar, Patrick C. Wilson. *Evolving rare B cell lineages for an effective HIV vaccine*. **Science** 389, 455-457(2025).[Science](DOI:10.1126/science.adz6436)
+
+<img src="../../img/journalArticle.png" height="20px">
 Jenna J. Guthmiller, Linda Yu-Ling Lan, Lei Li, Yanbin Fu, Sean A. Nelson, Carole Henry, Christopher T. Stamper, Henry A. Utset, Alec W. Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley L. Dugan, Micah E. Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin E. Palm, Dustin G. Shaw, Madhumathi Loganathan, Benjamin F. Francis, Jiayi Sun, Jordan Chervin, Chloe Troxell, Philip Meade, Nancy H.L. Leung, Sophie A. Valkenburg, Sarah Cobey, Benjamin J. Cowling, Ian A. Wilson, Adolfo García-Sastre, Raffael Nachbagauer, Andrew B. Ward, Lynda Coughlan, Florian Krammer, Patrick C. Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins*. **Immunity** Volume 58, Issue 4 (2025); 980-996.e7, ISSN 1074-7613, [Immunity](https://doi.org/10.1016/j.immuni.2025.02.025)
 
 <img src="../../img/journalArticle.png" height="20px">
