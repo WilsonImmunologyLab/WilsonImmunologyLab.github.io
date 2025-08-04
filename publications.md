@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2025
 <img src="../../img/journalArticle.png" height="20px">
+Jenna J. Guthmiller, Linda Yu-Ling Lan, Lei Li, Yanbin Fu, Sean A. Nelson, Carole Henry, Christopher T. Stamper, Henry A. Utset, Alec W. Freyn, Julianna Han, Olivia Stovicek, Jiaolong Wang, Nai-Ying Zheng, Min Huang, Haley L. Dugan, Micah E. Tepora, Xueyong Zhu, Yao-Qing Chen, Anna-Karin E. Palm, Dustin G. Shaw, Madhumathi Loganathan, Benjamin F. Francis, Jiayi Sun, Jordan Chervin, Chloe Troxell, Philip Meade, Nancy H.L. Leung, Sophie A. Valkenburg, Sarah Cobey, Benjamin J. Cowling, Ian A. Wilson, Adolfo García-Sastre, Raffael Nachbagauer, Andrew B. Ward, Lynda Coughlan, Florian Krammer, Patrick C. Wilson. *Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins*. **Immunity** Volume 58, Issue 4 (2025); 980-996.e7, ISSN 1074-7613, [Immunity](https://doi.org/10.1016/j.immuni.2025.02.025)
+
+<img src="../../img/journalArticle.png" height="20px">
 Halfmann, P.J., Patel, R.S., Loeffler, K. et al. *Multivalent S2 subunit vaccines provide broad protection against Clade 1 sarbecoviruses in female mice*. **Nat Commun** 16, 462 (2025). [Nature Communications](https://doi.org/10.1038/s41467-025-55824-y)
 
 <img src="../../img/journalArticle.png" height="20px">
