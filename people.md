@@ -28,6 +28,9 @@ Postdoc:
   - name: Sean Nelson
     img: ../../img/people/people.jpeg
     desc:      
+  - name: Dalton Towers
+    img: ../../img/people/people.jpeg
+    desc:
   - name: Jordan Chervin
     img: ../../img/people/Jordan.jpeg
     desc: Jordan is a bioinformatics analyst in the Wilson Lab.
@@ -41,9 +44,6 @@ Group:
   - name: Min Huang
     img: ../../img/people/people.jpeg
     desc: Research technician
-  - name: Vanessa Dudley
-    img: ../../img/people/Vanessa.jpg
-    desc: Research Program Manager
 ---
 
 ## Principal Investigator 
