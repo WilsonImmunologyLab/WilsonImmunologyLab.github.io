@@ -29,8 +29,8 @@ Postdoc:
     img: ../../img/people/people.jpeg
     desc:      
   - name: Dalton Towers
-    img: ../../img/people/people.jpeg
-    desc:
+    img: ../../img/people/Dalton.jpeg
+    desc: Dalton investigates the abundance, selection, stability, and specificity of antibodies and their corresponding B cells elicited by vaccination and infection. His previous research centered on immunoproteomics, antibody developability, and diagnostic applications.
   - name: Jordan Chervin
     img: ../../img/people/Jordan.jpeg
     desc: Jordan is a bioinformatics analyst in the Wilson Lab.
