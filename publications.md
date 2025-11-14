@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## 2025
 <img src="../../img/journalArticle.png" height="20px">
+Siriruk Changrob, Atsuhiro Yasuhara, Suncheol Park, Sandhya Bangaru, Lei Li, Chloe A. Troxell, Peter J. Halfmann, Steven A. Erickson, Nicholas J. Catanzaro, Meng Yuan, Panpan Zhou, Min Huang, G. Dewey Wilbanks, Joshua J.C. McGrath, Gagandeep Singh, Sean A. Nelson, Yanbin Fu, Nai-Ying Zheng, Sofia M. Carayannopoulos, Haley L. Dugan, Dustin G. Shaw, Christopher T. Stamper, Maria Lucia L. Madariaga, Florian Krammer, Raiees Andrabi, Dennis R. Burton, Andrew B. Ward, Ian A. Wilson, Yoshihiro Kawaoka, Patrick C. Wilson; *Common cold embecovirus imprinting primes broadly neutralizing antibody responses to SARS-CoV-2 S2*. **J Exp Med** 1 December 2025; 222 (12).[JEM](doi: https://doi.org/10.1084/jem.20251146)
+
+<img src="../../img/journalArticle.png" height="20px">
 Sallie R. Permar, Patrick C. Wilson. *Evolving rare B cell lineages for an effective HIV vaccine*. **Science** 389, 455-457(2025).[Science](DOI:10.1126/science.adz6436)
 
 <img src="../../img/journalArticle.png" height="20px">
