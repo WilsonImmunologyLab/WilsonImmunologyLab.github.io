@@ -5,6 +5,10 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=4gFqpdYAAAAJ&hl=en). 
 
+## 2026
+<img src="../../img/journalArticle.png" height="20px">
+Sun, J., Jo, G., Troxell, C.A. et al. *B cell imprinting in children impairs antibodies to the haemagglutinin stalk*. **Nature** (2026).[Nature](doi: https://doi.org/10.1038/s41586-026-10248-6)
+
 ## 2025
 <img src="../../img/journalArticle.png" height="20px">
 Siriruk Changrob, Atsuhiro Yasuhara, Suncheol Park, Sandhya Bangaru, Lei Li, Chloe A. Troxell, Peter J. Halfmann, Steven A. Erickson, Nicholas J. Catanzaro, Meng Yuan, Panpan Zhou, Min Huang, G. Dewey Wilbanks, Joshua J.C. McGrath, Gagandeep Singh, Sean A. Nelson, Yanbin Fu, Nai-Ying Zheng, Sofia M. Carayannopoulos, Haley L. Dugan, Dustin G. Shaw, Christopher T. Stamper, Maria Lucia L. Madariaga, Florian Krammer, Raiees Andrabi, Dennis R. Burton, Andrew B. Ward, Ian A. Wilson, Yoshihiro Kawaoka, Patrick C. Wilson; *Common cold embecovirus imprinting primes broadly neutralizing antibody responses to SARS-CoV-2 S2*. **J Exp Med** 1 December 2025; 222 (12).[JEM](doi: https://doi.org/10.1084/jem.20251146)
