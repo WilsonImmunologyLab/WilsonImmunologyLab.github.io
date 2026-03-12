@@ -10,7 +10,7 @@ cover-img:
 
 Antibodies are critical for adaptive immunity and represent the primary correlate of protection for most vaccines. They are also an important type of therapeutic with rapidly growing demand.
 
-The antibody biology lab, headed by Patrick Wilson, studies various aspects of antibody-mediated immunity. These topics include antibody-mediated immunity to infectious diseases such as influenza, anthrax, pneumococcal and staphylococcal bacteria. We also study the function of B cells, the development of B cell immune responses, antibody gene usage and diversification, and B cell tolerance.
+We utilize various technologies and approaches to study autoimmunity, B cell biology, and immune responses to infectious diseases in humans and mice, with a special focus on influenza vaccinology. The Wilson laboratory typically investigates B cell questions from a "specificity-first” perspective by characterizing B cell and monoclonal antibody specificities to interpret immune responses or assess B cell tolerance. Our recent work has involved extensive use of single-cell transcriptomics combined with cell surface and antigen-binding techniques using oligonucleotide hash-tagging. We then employ multiple methods and technologies to further characterize the B cells and antibodies involved in these responses. 
 
 <h2>Activities</h2>
 
@@ -18,7 +18,7 @@ The antibody biology lab, headed by Patrick Wilson, studies various aspects of a
  <a class="twitter-timeline"
  href="https://twitter.com/patwilsonlab1"
  data-widget-id="340639437736255489"
- data-chrome="nofooter noborders transparent" data-tweet-limit="3">I am tweeting (@PatWilsonLab1)</a>
+ data-chrome="nofooter noborders transparent" data-tweet-limit="3"> Find me on X (formerly Twitter) @PatWilsonLab1</a>
  <script>
 						!function(d, s, id) {
 							var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/
